@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fkls666.github.io</id>
+    <title>方块的博客</title>
+    <updated>2024-05-18T09:15:41.173Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fkls666.github.io"/>
+    <link rel="self" href="https://fkls666.github.io/atom.xml"/>
+    <subtitle>这里想写什么都可以……</subtitle>
+    <logo>https://fkls666.github.io/images/avatar.png</logo>
+    <icon>https://fkls666.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 方块的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[C++常用代码！]]></title>
+        <id>https://fkls666.github.io/post/cchang-yong-dai-ma/</id>
+        <link href="https://fkls666.github.io/post/cchang-yong-dai-ma/">
+        </link>
+        <updated>2024-05-04T08:37:00.000Z</updated>
+        <content type="html"><![CDATA[<p>include 包含<br>
+iostream 输出输入头文件<br>
+using 使用<br>
+namespace 命名空间<br>
+std 标准的缩写<br>
+main 主函数<br>
+int 声明整型变量或函数<br>
+char 声明字符型变量或函数<br>
+double 声明双精度变量或函数<br>
+float 声明浮点型变量或函数<br>
+long 声明长整型变量或函数<br>
+short 声明短整型变量或函数<br>
+signed 声明有符号类型变量或函数<br>
+unsigned 声明无符号类型变量或函数<br>
+enum 声明枚举类型<br>
+struct 声明结构体变量或函数<br>
+union 声明共用体（联合）数据类型<br>
+cin 输入命令<br>
+cout 输出命令<br>
+endl end line的缩写，换行<br>
+scanf 输入命令<br>
+printf 输出命令<br>
+void 声明函数无返回值或无参数，声明无类型指针<br>
+for 一种循环语句<br>
+do 循环语句的循环体<br>
+while 循环语句的循环条件<br>
+break 跳出当前循环<br>
+continue 结束当前循环，开始下一轮循环<br>
+if 条件语句<br>
+else 条件语句否定分支（与if连用）<br>
+goto 无条件跳转语句<br>
+switch 用于开关语句<br>
+case 开关语句分支<br>
+default 开关语句中的“其他”分支<br>
+return 子程序返回语句（可以带参数，也可以不带参数）<br>
+static 声明静态变量<br>
+const 声明只读变量（注意是变量）<br>
+sizrof 计算数据类型长度<br>
+typedef 用于给数据类型取别名（当然还有其他作用）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将进酒]]></title>
+        <id>https://fkls666.github.io/post/jiang-jin-jiu/</id>
+        <link href="https://fkls666.github.io/post/jiang-jin-jiu/">
+        </link>
+        <updated>2024-04-27T07:44:40.000Z</updated>
+        <content type="html"><![CDATA[<p>君不见，黄河之水天上来，奔流到海不复回。</p>
+<p>君不见，高堂明镜悲白发，朝如青丝暮成雪。</p>
+<p>人生得意须尽欢，莫使金樽空对月。</p>
+<p>天生我材必有用，千金散尽还复来。</p>
+<p>烹羊宰牛且为乐，会须一饮三百杯。</p>
+<p>岑夫子，丹丘生，将进酒，杯莫停。</p>
+<p>与君歌一曲，请君为我倾耳听。</p>
+<p>钟鼓馔玉不足贵，但愿长醉不愿醒。</p>
+<p>古来圣贤皆寂寞，惟有饮者留其名。</p>
+<p>陈王昔时宴平乐，斗酒十千恣欢谑。</p>
+<p>主人何为言少钱，径须沽取对君酌。</p>
+<p>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[插入视频]]></title>
+        <id>https://fkls666.github.io/post/markdown-yu-fa/</id>
+        <link href="https://fkls666.github.io/post/markdown-yu-fa/">
+        </link>
+        <updated>2024-04-20T08:58:51.000Z</updated>
+        <content type="html"><![CDATA[<iframe
+width="100%"  
+height="450"  
+ src="//player.bilibili.com/player.html?aid=1153732801&bvid=BV1wZ421J78r&cid=1519876185&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+]]></content>
+    </entry>
+</feed>
